@@ -1,4 +1,19 @@
-QRCode accesses camera, which is used for the purpose of taking photos, to fulfil its purpose as a camera. 
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+<div class="w3-container"> 
+
+<h1>Permisions APP QRCode</h1>
+
+<p>QRCode accesses camera, which is used for the purpose of taking photos, to fulfil its purpose as a camera. 
 
 
-QRCode requires permission to "access camera", as this permission is required for Android to capture qr.
+QRCode requires permission to "access camera", as this permission is required for Android to capture qr.</p>
+</div>
+</body>
+</html>
+
+
