@@ -1,0 +1,4 @@
+QRCode accesses camera, which is used for the purpose of taking photos, to fulfil its purpose as a camera. 
+
+
+QRCode requires permission to "access camera", as this permission is required for Android to capture qr.
